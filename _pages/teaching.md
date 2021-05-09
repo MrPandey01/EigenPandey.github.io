@@ -6,10 +6,10 @@ author_profile: true
 title: "Teaching"
 ---
 
-## Course 1
+Currently I'm the teaching assistant of the following course at KU Leuven
 
-This is what I do
+```
 
-## Course 2
+- Data Mining and Neural Networks (B-KUL-H03V7B). Academic year 19-20, 20-21
 
-This is what I did
+```

@@ -15,13 +15,13 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "d
 
 # Site Settings
 locale: "en-US"
-title: "Site Title"
+title: "Home"
 title_separator: "-"
-subtitle: "subtitle" # site tagline that appears below site title in masthead
-name: "FirstName LastName"
-description: "Description"
+subtitle: "" # site tagline that appears below site title in masthead
+name: "Arun Pandey"
+description: "PhD researcher in Machine Learning/Applied Mathematics"
 github: [metadata]
-url: "https://cristal-sigma.github.io"
+url: "https://EigenPandey.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "CRIStAL-Sigma/cristal-sigma.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -97,13 +97,13 @@ analytics:
 # _includes/author-profile.html
 # _includes/author-profile-custom-links.html
 author:
-  name: "FirstName LastName"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "My short bio<br>Second line<br>"
-  location: "Lille, France"
-  email: "my.name@email.com"
-  github: "CRIStAL-Sigma"
-  webpage: "https://cristal-sigma.github.io"
+  name: "Arun Pandey"
+  avatar: "/assets/images/bio-photo1.jpg"
+  bio: "PhD researcher in Machine Learning/Applied Mathematics at ESAT, KU Leuven"
+  location: "Leuven, Belgium"
+  email: "arun.pandey@esat.kuleuven.be"
+  github: "EigenPandey"
+  webpage: "https://EigenPandey.github.io"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -115,7 +115,7 @@ author:
     acmdl:
     ads:
     africarxiv:
-    arxiv: "https://arxiv.org/a/<orcid-id | arxiv-id>"
+    arxiv: 
     biorxiv:
     ceur:
     ciencia-vitae:
@@ -132,7 +132,7 @@ author:
     dryad:
     elsevier:
     figshare:
-    google-scholar: "https://scholar.google.com/citations?user=<user-id>=en"
+    google-scholar: 
     hal:
     hypothesis:
     ideas-repec:
@@ -153,7 +153,7 @@ author:
     open-materials:
     obp:
     openedition:
-    orcid: "https://orcid.org/<orcid-id>"
+    orcid: 
     osf:
     overleaf:
     philpapers:
@@ -187,7 +187,7 @@ author:
       # url: "https://<webpage-link>"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/EigenPandey"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -205,13 +205,13 @@ footer:
   links: # uncomment url to make link appear
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/EigenPandey"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CRIStAL-Sigma"
+      url: "https://github.com/EigenPandey"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
