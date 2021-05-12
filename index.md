@@ -8,7 +8,7 @@ I am a Ph.D. researcher at [Stadius Center for Dynamical Systems, Signal Process
 
 Prior to my Ph.D., I did masters in Applied Mathematics as an Erasmus Mundus scholar and consequently earned a Joint MSc degree from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as an Associate Engineer in Product Development at Ford Motors, Chennai, India.
 
-Outside academia, I enjoy outdoors, hiking and traveling to new places!
+Outside academia, I enjoy outdoors: hiking and traveling to new places!
 
 ## Research Interests
 Kernel Methods, Deep Learning, Generative Models, Dynamical Systems and Mathematical Optimization
