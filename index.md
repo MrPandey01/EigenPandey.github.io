@@ -26,6 +26,6 @@ Kernel Methods, Deep Learning, Generative Models, Dynamical Systems and Mathemat
 - Accepted paper on '[_Unsupervised Energy-based Out-of-distribution Detection using Stiefel-Restricted Kernel Machine_](https://arxiv.org/abs/2102.08443)' at IJCNN2021.  
 - Contributed talk at [ E-Duality seminar ](https://www.esat.kuleuven.be/stadius/event.php?id=2227) on '_Training Restricted Kernel Machines with Manifold Optimization_', 24 Nov, 2020.
 - Delivered talk on '_Machine Learning in Quantum Chemistry: A Review_' to Prof. Daniel Escudero's group, Department of Chemistry, KU Leuven, Belgium, 23 October, 2020.
-- Presented a [paper](https://link.springer.com/chapter/10.1007\%2F978-3-030-64583-0_54)  at [ LOD2020 ](https://lod2020.icas.xyz/) conference, Siena-Tuscany, Italy.
+- Presented a [paper](https://link.springer.com/chapter/10.1007\%2F978-3-030-64583-0_54)  at [ LOD2020 ](https://lod2020.icas.xyz/) conference, July 19-23, 2020, Siena-Tuscany, Italy.
 - Delivered code tutorial/exercise session on [VISUM2020](http://visum.inesctec.pt/\#1479233408529-3f287766-e70b) summer school, 07 July, 2020, Porto, Portugal.
 - Presented poster at [ Leuven.AI ](https://ai.kuleuven.be/news/kickoff-meeting-of-leuven.ai) kick-off meeting, 02 March, 2020, Leuven, Belgium.
