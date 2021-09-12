@@ -21,7 +21,7 @@ subtitle: "" # site tagline that appears below site title in masthead
 name: "Arun Pandey"
 description: "PhD researcher in Machine Learning/Applied Mathematics"
 github: [metadata]
-url: "https://EigenPandey.github.io"
+url: "https://arunpandey.xyz"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "CRIStAL-Sigma/cristal-sigma.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
