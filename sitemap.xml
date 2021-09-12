@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://eigenpandey.github.io/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://eigenpandey.github.io/publications/</loc>
+<loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
-<loc>https://eigenpandey.github.io/teaching/</loc>
+<loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
-<loc>https://eigenpandey.github.io/assets/pdfs/Mittelbach2105_poster.pdf</loc>
+<loc>http://localhost:4000/assets/pdfs/Mittelbach2105_poster.pdf</loc>
 <lastmod>2021-05-07T17:14:02+02:00</lastmod>
 </url>
 <url>
-<loc>https://eigenpandey.github.io/assets/pdfs/Mittelbach2105_slides.pdf</loc>
+<loc>http://localhost:4000/assets/pdfs/Mittelbach2105_slides.pdf</loc>
 <lastmod>2021-05-07T17:14:02+02:00</lastmod>
 </url>
 <url>
-<loc>https://eigenpandey.github.io/assets/pdfs/robust_rkm_poster.pdf</loc>
+<loc>http://localhost:4000/assets/pdfs/robust_rkm_poster.pdf</loc>
 <lastmod>2021-05-08T13:36:13+02:00</lastmod>
 </url>
 </urlset>
