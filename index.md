@@ -13,11 +13,13 @@ classes: wide
 
 I am a Ph.D. researcher at [Stadius Center for Dynamical Systems, Signal Processing and Data Analytics](https://www.esat.kuleuven.be/stadius/) with [Prof. Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) working on the generously funded ERC Advanced Grant [E-DUALITY](https://www.esat.kuleuven.be/stadius/E/) project. 
 
-I work on the methods and algorithms side of machine learning. My current research efforts include finding synergies between the Kernel Methods and Deep Learning which are classically two distinct fields in machine learning. Mathematical models thus built are applied towards dynamical systems modeling, time series prediction and computer vision.
+I work on the methods and algorithms side of machine learning. My current research efforts include finding synergies between the classically distinct fields of machine learning namely, Kernel Methods and Deep Learning. Mathematical models built as a consequence are applied towards dynamical systems modeling, time series prediction and computer vision.
 
-Prior to my Ph.D., I did a master's in Applied Mathematics as an Erasmus Mundus scholar and consequently earned a Joint MSc degree from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as an Associate Engineer in the Product Development department, Ford Motors, Chennai, India.
+Prior to my Ph.D., I did MSc in Applied Mathematics as  Erasmus Mundus scholar ([MathMods](https://www.mathmods.eu/)) jointly from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as Associate Engineer in the Product Development department, Ford Motors, Chennai, India.
 
-Outside academia, I enjoy the outdoors, especially hiking and traveling to new places!
+Outside research, I enjoy outdoors, especially hiking and traveling to new places! I'm also a FOSS (Free and Open Source Software) enthusiast. As a hobby, I currently maintain my home server for several web-applications.
+
+Feel free to reach me out for discussions on machine learning, FOSS, study abroad, PhD experiance or anything else, in general.
 
 ## Research Interests
 Kernel Methods, Deep Learning, Generative Models, Dynamical Systems and Mathematical Optimization

@@ -98,7 +98,7 @@ analytics:
 # _includes/author-profile-custom-links.html
 author:
   name: "Arun Pandey"
-  avatar: "/assets/images/bio-photo1.jpg"
+  avatar: "/assets/images/bio_photo_0.jpg"
   bio: "PhD researcher in Machine Learning/Applied Mathematics at ESAT, KU Leuven"
   location: "Leuven, Belgium"
   email: "arun.pandey@esat.kuleuven.be"
