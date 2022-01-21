@@ -13,7 +13,7 @@ classes: wide
 
 I am a Ph.D. researcher at [Stadius Center for Dynamical Systems, Signal Processing and Data Analytics](https://www.esat.kuleuven.be/stadius/) with [Prof. Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) working on the generously funded ERC Advanced Grant [E-DUALITY](https://www.esat.kuleuven.be/stadius/E/) project. 
 
-I work on the methods and algorithms side of machine learning. My current research efforts include finding synergies between the classically distinct fields of machine learning namely, Kernel Methods and Deep Learning. Mathematical models built as a consequence are applied towards dynamical systems modeling, time series prediction and computer vision.
+I work on the methods and algorithms side of machine learning. My current research efforts include finding synergies between the Kernel Methods and Deep Learning. Mathematical models built as a consequence are applied towards dynamical systems modeling, time series prediction and computer vision.
 
 Prior to my Ph.D., I did MSc in Applied Mathematics as  Erasmus Mundus scholar ([MathMods](https://www.mathmods.eu/)) jointly from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as Associate Engineer in the Product Development department, Ford Motors, Chennai, India.
 
