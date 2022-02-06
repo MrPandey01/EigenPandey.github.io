@@ -4,22 +4,21 @@ author_profile: true
 classes: wide
 ---
 <div align="middle" style="margin-top: 50px">
-  <a href="https://www.esat.kuleuven.be/stadius/E/"><img class='logo' alt="logo_cnrs" src="assets/images/logo_erc.png" align="bottom" style="width:100px;height:100px;"></a>
+  <a href="https://www.esat.kuleuven.be/stadius/E/"><img class='logo' alt="logo_cnrs" src="assets/images/logo_erc.png" align="bottom" style="width:70px;height:70px;"></a>
 
-  <a href="https://www.esat.kuleuven.be/stadius/"><img class='logo' alt="logo_cristal" src="assets/images/logo_stadius.png" align="bottom" style="width:260px;height:90px;"></a>
+  <a href="https://www.esat.kuleuven.be/stadius/"><img class='logo' alt="logo_cristal" src="assets/images/logo_stadius.png" align="bottom" style="width:173px;height:60px;"></a>
 
-  <a href="https://www.kuleuven.be/english/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_kul.png" align="bottom" style="width:270px;height:90px;"></a>
+  <a href="https://www.kuleuven.be/english/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_kul.png" align="bottom" style="width:156px;height:60px;"></a>
 </div>
 
 I am a Ph.D. researcher at [Stadius Center for Dynamical Systems, Signal Processing and Data Analytics](https://www.esat.kuleuven.be/stadius/) with [Prof. Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) working on the generously funded ERC Advanced Grant [E-DUALITY](https://www.esat.kuleuven.be/stadius/E/) project. 
 
 I work on the methods and algorithms side of machine learning. My current research efforts include finding synergies between the Kernel Methods and Deep Learning. Mathematical models built as a consequence are applied towards dynamical systems modeling, time series prediction and computer vision.
 
-Prior to my Ph.D., I did MSc in Applied Mathematics as  Erasmus Mundus scholar ([MathMods](https://www.mathmods.eu/)) jointly from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as Associate Engineer in the Product Development department, Ford Motors, Chennai, India.
+Before my Ph.D., I did a MSc in Applied Mathematics as an Erasmus Mundus scholar ([MathMods](https://www.mathmods.eu/)) from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università Degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as Associate Engineer in the Product Development department, Ford Motors, Chennai, India.
 
-Outside research, I enjoy outdoors, especially hiking and traveling to new places! I'm also a FOSS (Free and Open Source Software) enthusiast. As a hobby, I currently maintain my home server for several web applications.
+Outside research, I enjoy the outdoors, especially hiking and traveling to new places! I'm also a FOSS (Free and Open Source Software) enthusiast. As a hobby, I currently maintain my home server for several web applications.
 
-Feel free to reach out for discussions on machine learning, FOSS, study abroad, Ph.D. experience, or anything else in general.
 
 ## Research Interests
 Kernel Methods, Deep Learning, Generative Models, Dynamical Systems and Mathematical Optimization
