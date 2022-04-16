@@ -17,7 +17,7 @@ I work on the methods and algorithms side of machine learning. My current resear
 
 Before my Ph.D., I did a joint MSc in Applied Mathematics as an Erasmus Mundus scholar ([MathMods](https://www.mathmods.eu/)) from [Universität Hamburg, Germany](https://www.math.uni-hamburg.de/en.html); [Università Degli Studi dell’Aquila, Italy](www.disim.univaq.it); [Universitat Autònoma de Barcelona, Spain](https://www.uab.cat/en/). Further, I earned a bachelor's degree in Mechanical engineering from [VIT University, Vellore, India](https://vit.ac.in/). Professionally, I worked for 1-year as Associate Engineer in the Product Development, Ford Motors, Chennai, India.
 
-Outside research, I enjoy the outdoors, especially hiking and traveling to new places! I'm also a huge FOSS (Free and Open Source Software) enthusiast. As a hobby, I currently maintain my home server for several web applications.
+Outside research, I enjoy the outdoors, especially hiking and traveling to new places! I'm also a huge FOSS (Free and Open Source Software) enthusiast.
 
 
 ## Research Interests
