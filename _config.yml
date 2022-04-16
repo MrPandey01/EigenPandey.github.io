@@ -102,8 +102,8 @@ author:
   bio: "PhD researcher in Machine Learning/Applied Mathematics at ESAT, KU Leuven"
   location: "Leuven, Belgium"
   email: "arun.pandey@esat.kuleuven.be"
-  github: "EigenPandey"
-  webpage: "https://EigenPandey.github.io"
+  github: "MrPandey01"
+  webpage: "https://arunpandey.xyz"
   # Academic profiles
   # To make logo+link appear in author_profile on the left side of the page
   # - fill the corresponding field
@@ -187,7 +187,7 @@ author:
       # url: "https://<webpage-link>"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EigenPandey"
+      url: "https://twitter.com/MrPandey01"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -205,13 +205,13 @@ footer:
   links: # uncomment url to make link appear
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/EigenPandey"
+      url: "https://twitter.com/MrPandey01"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/EigenPandey"
+      url: "https://github.com/MrPandey01"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
